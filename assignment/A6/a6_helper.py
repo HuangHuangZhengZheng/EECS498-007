@@ -344,6 +344,7 @@ def train_vae(epoch, model, train_loader, cond=False):
             recon_batch, mu, logvar = model(data, one_hot_vec)
         else:
             recon_batch, mu, logvar = model(data)
+            
         optimizer.zero_grad()
         loss = loss_function(recon_batch, data, mu, logvar)
         loss.backward()

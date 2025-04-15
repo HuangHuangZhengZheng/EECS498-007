@@ -1,3 +1,9 @@
++++
+title = 'L10-Training I'
+date = 2024-11-04T09:46:08+08:00
+draft = false
+categories = ['UMich-EECS-498']
++++
 # Training I
 ![alt text](image.png)
 

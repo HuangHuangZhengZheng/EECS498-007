@@ -1,3 +1,9 @@
++++
+title = 'L5-NN'
+date = 2024-10-24T15:13:23+08:00
+draft = false
+categories = ['UMich-EECS-498']
++++
 # Neural Networks
 ## 线性不可分怎么处理？
 ![alt text](image.png)

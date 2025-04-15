@@ -1,3 +1,9 @@
++++
+title = 'L2-image classification'
+date = 2024-09-23T08:43:32+08:00
+draft = false
+categories = ['UMich-EECS-498']
++++
 # Lecture 2: Image Classification
 
 ## Introduction

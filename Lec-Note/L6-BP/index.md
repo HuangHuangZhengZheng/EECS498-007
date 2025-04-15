@@ -1,3 +1,9 @@
++++
+title = 'L6-BP'
+date = 2024-10-24T23:01:36+08:00
+draft = false
+categories = ['UMich-EECS-498']
++++
 # Backpropagation
 
 参见cmu 10-414 :grinning:

@@ -1,3 +1,9 @@
++++
+title = 'L3-linear classifiers'
+date = 2024-09-23T10:18:02+08:00
+draft = false
+categories = ['UMich-EECS-498']
++++
 # Linear Classifiers
 
 ## Viewpoints of Linear Classifiers

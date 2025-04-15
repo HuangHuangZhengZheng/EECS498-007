@@ -1,3 +1,9 @@
++++
+title = 'L8-CNN Arch'
+date = 2024-11-02T09:58:45+08:00
+draft = false
+categories = ['UMich-EECS-498']
++++
 # CNN Architectures
 
 今日首绷

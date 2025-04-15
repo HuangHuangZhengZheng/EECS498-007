@@ -1,3 +1,9 @@
++++
+title = 'L14-Visualizing and Understanding'
+date = 2024-11-06T08:27:18+08:00
+draft = false
+categories = ['UMich-EECS-498']
++++
 # Visualizing and Understanding
 
 ## Visualizing

@@ -1,3 +1,9 @@
++++
+title = 'L9-Hard and Software'
+date = 2024-11-02T09:59:30+08:00
+draft = false
+categories = ['UMich-EECS-498']
++++
 # Hard and Soft ware
 ## Hardware
 eecs 598.009 GPU programming!

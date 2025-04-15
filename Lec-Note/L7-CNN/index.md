@@ -1,3 +1,9 @@
++++
+title = 'L7-CNN'
+date = 2024-10-29T20:20:37+08:00
+draft = false
+categories = ['UMich-EECS-498']
++++
 # Convolutional Neural Networks
 
 ## Components of a CNN
